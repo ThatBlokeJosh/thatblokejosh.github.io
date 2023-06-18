@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ThatBlokesWeb</title>
-    <link>https://thatblokejosh.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on ThatBlokesWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thatblokejosh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://thatblokejosh.github.io/tags/ai/</link>
+      <link>/tags/ai/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thatblokejosh.github.io/tags/ai/</guid>
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://thatblokejosh.github.io/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thatblokejosh.github.io/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://thatblokejosh.github.io/tags/web/</link>
+      <link>/tags/web/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thatblokejosh.github.io/tags/web/</guid>
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on ThatBlokesWeb</title>
-    <link>https://thatblokejosh.github.io/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on ThatBlokesWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thatblokejosh.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QuizNGo</title>
-      <link>https://thatblokejosh.github.io/projects/quizngo/</link>
+      <link>/projects/quizngo/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thatblokejosh.github.io/projects/quizngo/</guid>
+      <guid>/projects/quizngo/</guid>
       <description>A simple web app written in Go using the Fiber web framework. It uses the OpenaiAPI to create quizzez for teachers.</description>
     </item>
     

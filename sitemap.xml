@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thatblokejosh.github.io/tags/ai/</loc>
+    <loc>/tags/ai/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/projects/quizngo/</loc>
+    <loc>/projects/quizngo/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/tags/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thatblokejosh.github.io/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://thatblokejosh.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
